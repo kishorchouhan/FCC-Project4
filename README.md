@@ -1,10 +1,28 @@
-# FCC-Project4
+# Technical Documentation Page-FCC Project4
 
 FCC Project 4: Technical Documentation Page
 
-### Instructions
+## Overview
 
-#Responsive Web Design Projects - Build a Technical Documentation Page
+[Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page/) - Project
+Project From FreeCodeCamp: Responsive Web Design Course.
+
+## Links to GitHub Repository (Master Branch)
+
+* My GitHub Project Repository: [https://github.com/kishorchouhan/Technical-Documentation-Page-FCC-Project](https://github.com/kishorchouhan/Technical-Documentation-Page-FCC-Project "My GitHub Project Repository")
+
+* My Project Website Is Hosted Here: [https://kishorchouhan.github.io/Technical-Documentation-Page-FCC-Project/](https://kishorchouhan.github.io/Technical-Documentation-Page-FCC-Project/ "My Hosted Website")
+
+To run the website and take code on local machine:
+
+1. Download the GitHub zip file or clone the repository onto your local workstation:
+	* zip file [https://github.com/kishorchouhan/Technical-Documentation-Page-FCC-Project/archive/master.zip](https://github.com/kishorchouhan/Technical-Documentation-Page-FCC-Project/archive/master.zip "download zip file")
+	* git clone [https://github.com/kishorchouhan/Technical-Documentation-Page-FCC-Project.git/](https://github.com/kishorchouhan/Technical-Documentation-Page-FCC-Project.git "git clone repository")
+2. Open a browser window and navigate to the index.html file in your directory.
+
+## Instructions from project
+
+### Responsive Web Design Projects - Build a Technical Documentation Page
 
 * Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/NdrKKL.
 
