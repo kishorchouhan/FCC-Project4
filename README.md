@@ -4,8 +4,8 @@ FCC Project 4: Technical Documentation Page
 
 ## Overview
 
-[Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page/) - Project
 Project From FreeCodeCamp: Responsive Web Design Course.
+Project instruction page: [Build a technical documentation page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page/)
 
 ## Links to GitHub Repository (Master Branch)
 
